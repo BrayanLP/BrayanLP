@@ -5,7 +5,9 @@
 
 ## ¡Soy desarrollador, autodidacta y emprendedor!
 
-- 🔭 Estoy por lanzar mi primer emprendimiento: [PRESTO.PE!][course]!
+- 🔭 Proyecto de emprendimiento: [PRESTO.PE!][course]!
+- 🔭 Proyecto de emprendimiento: [Facturea.PE!][facturea]!
+- 🔭 Proyecto de emprendimiento: [Cita.PE!][cita]!
 - 🌱 Actualmente estoy aprendiendo todo 🤣
 - 👯 Busco colaborar con otros creadores de contenido.
 - 🥅 Objetivos 2021: Sacar adelante mi empresa proiso.pe
@@ -48,6 +50,8 @@
 
 [website]: https://brayanlp.dev
 [course]: http://presto.pe
+[facturea]: https://facturea.pe
+[cita]: https://cita.pe
 [twitter]: https://twitter.com/brayanlpdev
 [youtube]: https://www.youtube.com/channel/UCmjtTJCkvucbRtmlsND_aTQ
 [instagram]: https://www.instagram.com/brayanlpdev/
