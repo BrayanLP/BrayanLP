@@ -6,7 +6,6 @@
 ## ¡Soy desarrollador, autodidacta y emprendedor!
 
 - 🔭 Proyecto de emprendimiento: [GrupoAizen!][grupoaizen]!
-- 🔭 Proyecto de emprendimiento: [PRESTO.PE!][course]!
 - 🔭 Proyecto de emprendimiento: [Facturea.PE!][facturea]!
 - 🔭 Proyecto de emprendimiento: [Cita.PE!][cita]!
 - 🌱 Actualmente estoy aprendiendo todo 🤣
