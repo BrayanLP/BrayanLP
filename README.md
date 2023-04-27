@@ -5,6 +5,7 @@
 
 ## ¡Soy desarrollador, autodidacta y emprendedor!
 
+- 🔭 Proyecto de emprendimiento: [GrupoAizen!][grupoaizen]!
 - 🔭 Proyecto de emprendimiento: [PRESTO.PE!][course]!
 - 🔭 Proyecto de emprendimiento: [Facturea.PE!][facturea]!
 - 🔭 Proyecto de emprendimiento: [Cita.PE!][cita]!
@@ -52,6 +53,7 @@
 [course]: http://presto.pe
 [facturea]: https://facturea.pe
 [cita]: https://cita.pe
+[grupoaizen]: https://grupoaizen.com
 [twitter]: https://twitter.com/brayanlpdev
 [youtube]: https://www.youtube.com/channel/UCmjtTJCkvucbRtmlsND_aTQ
 [instagram]: https://www.instagram.com/brayanlpdev/
