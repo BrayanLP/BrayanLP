@@ -8,7 +8,7 @@
 - 🔭 Proyecto de emprendimiento: [GrupoAizen!][grupoaizen]!
 - 🔭 Proyecto de emprendimiento: [Facturea.PE!][facturea]!
 - 🔭 Proyecto de emprendimiento: [Cita.PE!][cita]!
-- 🌱 Actualmente estoy aprendiendo todo 🤣
+- 🌱 Actualmente estoy aprendiendo todo 
 - 👯 Busco colaborar con otros creadores de contenido.
 - 🥅 Objetivos 2021: Sacar adelante mi empresa proiso.pe
 - 🥅 Objetivos 2020: Contribuir más a los proyectos de código abierto
