@@ -5,9 +5,9 @@
 
 ## ¡Soy desarrollador, autodidacta y emprendedor!
 
-- 🔭 Proyecto de emprendimiento: [GrupoAizen!][grupoaizen]!
-- 🔭 Proyecto de emprendimiento: [Facturea.PE!][facturea]!
-- 🔭 Proyecto de emprendimiento: [Cita.PE!][cita]!
+- 🔭 Proyecto de emprendimiento: GrupoAizen
+- 🔭 Proyecto de emprendimiento: Facturea.PE
+- 🔭 Proyecto de emprendimiento: Cita.PE
 - 🌱 Actualmente estoy aprendiendo todo 
 - 👯 Busco colaborar con otros creadores de contenido.
 - 🥅 Objetivos 2021: Sacar adelante mi empresa proiso.pe
