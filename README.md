@@ -1,4 +1,4 @@
-### Hola, Soy [Brayan LP][website] 👋
+### Hola, Soy [Brayan Developer][website] 👋
 
 [![Website](https://img.shields.io/website?label=Brayanlp.dev&style=for-the-badge&url=https%3A%2F%2Fwww.brayanlp.dev)](https://brayanlp.dev)
 
