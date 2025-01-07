@@ -1,6 +1,6 @@
 ### Hola, Soy [Brayan Developer][website] 👋
 
-[![Website](https://img.shields.io/website?label=Brayanlp.dev&style=for-the-badge&url=https%3A%2F%2Fwww.brayanlp.es)](https://brayanlp.es)
+[![Website](https://img.shields.io/website?label=Brayanlp.dev&style=for-the-badge&url=https%3A%2F%2Fwww.brayan.es)](https://brayan.es)
 
 
 ## ¡Soy desarrollador, autodidacta y emprendedor!
@@ -57,8 +57,8 @@
 [youtube]: https://www.youtube.com/channel/UCmjtTJCkvucbRtmlsND_aTQ
 [instagram]: https://www.instagram.com/brayanlpdev/
 [linkedin]: https://linkedin.com/in/brayanlp
-[webdevplaylist]: https://brayanlp.es
-[jsplaylist]: https://brayanlp.es
-[ionic]: https://brayanlp.es
-[cssplaylist]: https://brayanlp.es
-[reactplaylist]: https://brayanlp.es
+[webdevplaylist]: https://brayan.es
+[jsplaylist]: https://brayan.es
+[ionic]: https://brayan.es
+[cssplaylist]: https://brayan.es
+[reactplaylist]: https://brayan.es
