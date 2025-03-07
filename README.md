@@ -5,14 +5,8 @@
 
 ## ¡Soy desarrollador, autodidacta y emprendedor!
 
-- 🔭 Proyecto de emprendimiento: GrupoAizen
-- 🔭 Proyecto de emprendimiento: Facturea.PE
-- 🔭 Proyecto de emprendimiento: Cita.PE
-- 🌱 Actualmente estoy aprendiendo todo 
-- 👯 Busco colaborar con otros creadores de contenido.
-- 🥅 Objetivos 2021: Sacar adelante mi empresa proiso.pe
-- 🥅 Objetivos 2020: Contribuir más a los proyectos de código abierto
-- ⚡ Dato curioso: me encanta la domotica
+
+- 🌱 Actualmente soy freelancer 100% 
 
 ### Conectate conmigo:
 
