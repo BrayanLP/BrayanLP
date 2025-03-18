@@ -6,7 +6,7 @@
 ## ¡Soy Ingeniero de Software!
 
 
-- 🌱 Actualmente soy freelancer 100% 
+- 🌱 Actualmente soy Indie Hacker 
 
 ### Conectate conmigo:
 
