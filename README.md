@@ -6,7 +6,10 @@
 ## ¡Soy Ingeniero de Software!
 
 
-- 🌱 Actualmente soy Indie Hacker 
+- 🌱 Actualmente soy Indie Hacker
+- Gestiona tus proyecto con [proyectime.com](proyectime.com)
+- Haz un track de sus usuarios con [tracky.lat](tracky.lat)
+- Crea tu perfil como freelancer [developers.lat](developers.lat)
 
 ### Conectate conmigo:
 
