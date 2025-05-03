@@ -7,9 +7,9 @@
 
 
 - 🌱 Actualmente soy Indie Hacker
-- Gestiona tus proyecto con [proyectime.com](proyectime.com)
-- Haz un track de sus usuarios con [tracky.lat](tracky.lat)
-- Crea tu perfil como freelancer [developers.lat](developers.lat)
+- Gestiona tus proyecto con [proyectime.com](https://proyectime.com)
+- Haz un track de sus usuarios con [tracky.lat](https://tracky.lat)
+- Crea tu perfil como freelancer [developers.lat](https://developers.lat)
 
 ### Conectate conmigo:
 
