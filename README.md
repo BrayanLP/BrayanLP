@@ -64,7 +64,7 @@ Cada ruta: **4 clases + 1 clase de proyecto real** 🔥
 |:-:|---|---|:-:|
 | 🩺 | [**Serum Go**](https://exaserums.com) | Preparación para el examen SERUMS con preguntas oficiales por convocatoria | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
 | 💌 | [**invitacion.pe**](https://invitacion.pe) | Invitaciones digitales para eventos | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
-| 🦫 | [**AvisaPago**](https://avisapago.com) | Detecta pagos de Yape, Plin y bancos y los anuncia por voz en tu negocio | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
+| 🦫 | [**AvisaPago**](https://avisapago.com) | Detecta pagos de Yape, Plin y bancos y los anuncia por voz en tu negocio | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
 | ☁️ | [**brayan.pe**](https://brayan.pe) | Hosting, dominios y correo para negocios | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
 
 <p align="center">
