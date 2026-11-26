@@ -1,59 +1,120 @@
-### Hola, Soy [Brayan Developer][website] 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=200&section=header&text=Brayan%20Developer&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Ingeniero%20de%20Software%20%C2%B7%20Indie%20Hacker%20%C2%B7%20Profesor%20de%20IA&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Website](https://img.shields.io/website?label=Brayan.es&style=for-the-badge&url=https%3A%2F%2Fwww.brayan.es)](https://brayan.es)
+<p align="center">
+  <a href="https://brayan.es">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=Construyo+webs+y+apps+con+IA+%F0%9F%9A%80;Ense%C3%B1o+a+crear+software+con+Claude+%F0%9F%8E%93;Next.js+%C2%B7+Expo+%C2%B7+Firebase+%C2%B7+Coolify;Hecho+en+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://brayan.es"><img src="https://img.shields.io/badge/brayan.es-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://bootcamp.lat"><img src="https://img.shields.io/badge/bootcamp.lat-6d28d9?style=for-the-badge&logo=googleclassroom&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@brayan.developer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="http://www.linkedin.com/in/brayandeveloper"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/brayan.developer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/brayandeveloper"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
-## ¡Soy Ingeniero de Software!
-
-
-- 🌱 Actualmente soy Indie Hacker
-- Gestiona tus proyecto con [proyectime.com](https://proyectime.com)
-- Haz un track de tus usuarios con [tracky.lat](https://tracky.lat)
-- Crea tu perfil como freelancer [developers.lat](https://developers.lat)
-
-### Conectate conmigo:
-
-[<img align="left" alt="brayanlp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="brayanlp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="brayanlp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
- 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="brayanlp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ionic.svg" />][ionic]
-<br />
-<br />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrayanLP&label=Visitas&color=6d28d9&style=flat-square" />
+</p>
 
 ---
 
+## 🧑‍💻 Sobre mí
 
-[website]: https://brayan.es
-[course]: http://presto.pe
-[facturea]: https://facturea.pe
-[cita]: https://cita.pe
-[grupoaizen]: https://grupoaizen.com
-[twitter]: https://x.com/brayandeveloper
-[youtube]: https://www.youtube.com/@brayan.developer
-[instagram]: https://www.instagram.com/brayan.developer/
-[linkedin]: http://www.linkedin.com/in/brayandeveloper
-[webdevplaylist]: https://brayan.es
-[jsplaylist]: https://brayan.es
-[ionic]: https://brayan.es
-[cssplaylist]: https://brayan.es
-[reactplaylist]: https://brayan.es
+```js
+const brayan = {
+  rol: ["Ingeniero de Software", "Indie Hacker", "Profesor en bootcamp.lat"],
+  ubicacion: "Lima, Perú 🇵🇪",
+  construyendo: ["Serum Go", "AvisaPago", "Oficina Virtual de agentes IA"],
+  stackFavorito: ["Next.js", "Tailwind", "Expo", "Firebase", "Coolify"],
+  superpoder: "Crear productos completos con Claude Code 🤖",
+};
+```
+
+## 🎓 bootcamp.lat
+
+<table>
+<tr>
+<td width="60%">
+
+Comunidad donde enseño a crear **webs, software y apps con IA (Claude)**.
+Cada ruta: **4 clases + 1 clase de proyecto real** 🔥
+
+- 🌐 **Web** — Next.js · Tailwind · Radix · GSAP · React Hook Form
+- 🧩 **Software** — Next.js full-stack
+- 📱 **Apps** — Expo · React Native Paper
+- 🧒 **Bootcamp LAT Kids** — chicos de 12 a 16 años creando con IA (ene–feb)
+
+<a href="https://bootcamp.lat"><img src="https://img.shields.io/badge/%C3%9Anete%20a%20la%20comunidad-bootcamp.lat-8b5cf6?style=for-the-badge" /></a>
+
+</td>
+<td width="40%" align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react&perline=3" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,firebase&perline=3" />
+</td>
+</tr>
+</table>
+
+## 🚀 Productos
+
+| | Proyecto | Qué hace | Estado |
+|:-:|---|---|:-:|
+| 🩺 | [**Serum Go**](https://exaserums.com) | Preparación para el examen SERUMS con preguntas oficiales por convocatoria | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
+| 💌 | [**invitacion.pe**](https://invitacion.pe) | Invitaciones digitales para eventos | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
+| 🦫 | **AvisaPago** | Detecta pagos de Yape, Plin y bancos y los anuncia por voz en tu negocio | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
+| 🏢 | **Oficina Virtual** | Panel 3D que orquesta agentes de IA por proyecto | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
+| 🎥 | **Avatar en vivo** | Avatar en tiempo real que vende en lives de TikTok | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
+| ☁️ | **Hosting y dominios** | Hosting, dominios y correo para negocios | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
+
+<p align="center">
+  <a href="https://proyectime.com"><img src="https://img.shields.io/badge/proyectime.com-1e293b?style=flat-square" /></a>
+  <a href="https://tracky.lat"><img src="https://img.shields.io/badge/tracky.lat-1e293b?style=flat-square" /></a>
+  <a href="https://developers.lat"><img src="https://img.shields.io/badge/developers.lat-1e293b?style=flat-square" /></a>
+  <a href="https://proiso.pe"><img src="https://img.shields.io/badge/proiso.pe-1e293b?style=flat-square" /></a>
+  <a href="https://cadasol.com"><img src="https://img.shields.io/badge/cadasol.com-1e293b?style=flat-square" /></a>
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,sass,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,postgres,wordpress,php&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,docker,vercel,cloudflare,netlify,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrayanLP&show_icons=true&hide_border=true&bg_color=0f172a&title_color=8b5cf6&icon_color=06b6d4&text_color=e2e8f0&locale=es" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanLP&layout=compact&hide_border=true&bg_color=0f172a&title_color=8b5cf6&text_color=e2e8f0&locale=es" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BrayanLP&hide_border=true&background=0f172a&ring=8b5cf6&fire=06b6d4&currStreakLabel=8b5cf6&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&locale=es" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrayanLP&bg_color=0f172a&color=e2e8f0&line=8b5cf6&point=06b6d4&area=true&area_color=6d28d9&hide_border=true&custom_title=Mi%20actividad%20en%20GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BrayanLP&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+---
+
+<p align="center">
+  <b>📩 ¿Tienes un proyecto en mente?</b> Hablemos en <a href="https://brayan.es">brayan.es</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:0f172a&height=120&section=footer" />
