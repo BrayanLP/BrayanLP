@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/@brayan.developer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="http://www.linkedin.com/in/brayandeveloper"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/brayan.developer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/51975521788"><img src="https://img.shields.io/badge/WhatsApp-975%20521%20788-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/51975521788"><img src="https://img.shields.io/badge/WhatsApp%20975%20521%20788-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://x.com/brayandeveloper"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
@@ -89,6 +89,7 @@ Cada ruta: **4 clases + 1 clase de proyecto real** 🔥
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ## 📊 Estadísticas
