@@ -12,6 +12,7 @@
   <a href="https://www.youtube.com/@brayan.developer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="http://www.linkedin.com/in/brayandeveloper"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/brayan.developer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/51975521788"><img src="https://img.shields.io/badge/WhatsApp-975%20521%20788-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://x.com/brayandeveloper"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
@@ -63,7 +64,7 @@ Cada ruta: **4 clases + 1 clase de proyecto real** 🔥
 |:-:|---|---|:-:|
 | 🩺 | [**Serum Go**](https://exaserums.com) | Preparación para el examen SERUMS con preguntas oficiales por convocatoria | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
 | 💌 | [**invitacion.pe**](https://invitacion.pe) | Invitaciones digitales para eventos | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
-| 🦫 | **AvisaPago** | Detecta pagos de Yape, Plin y bancos y los anuncia por voz en tu negocio | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
+| 🦫 | [**AvisaPago**](https://avisapago.com) | Detecta pagos de Yape, Plin y bancos y los anuncia por voz en tu negocio | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
 | ☁️ | [**brayan.pe**](https://brayan.pe) | Hosting, dominios y correo para negocios | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
 
 <p align="center">
@@ -108,7 +109,7 @@ Cada ruta: **4 clases + 1 clase de proyecto real** 🔥
 ---
 
 <p align="center">
-  <b>📩 ¿Tienes un proyecto en mente?</b> Hablemos en <a href="https://brayan.es">brayan.es</a>
+  <b>📩 ¿Tienes un proyecto en mente?</b> Escríbeme por WhatsApp al <a href="https://wa.me/51975521788">975 521 788</a> o en <a href="https://brayan.es">brayan.es</a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:0f172a&height=120&section=footer" />
