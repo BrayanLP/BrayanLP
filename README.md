@@ -107,10 +107,6 @@ Cada ruta: **4 clases + 1 clase de proyecto real** 🔥
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrayanLP&bg_color=0f172a&color=e2e8f0&line=8b5cf6&point=06b6d4&area=true&area_color=6d28d9&hide_border=true&custom_title=Mi%20actividad%20en%20GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrayanLP&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
 ---
 
 <p align="center">
