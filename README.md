@@ -27,7 +27,7 @@
 const brayan = {
   rol: ["Ingeniero de Software", "Indie Hacker", "Profesor en bootcamp.lat"],
   ubicacion: "Lima, Perú 🇵🇪",
-  construyendo: ["Serum Go", "AvisaPago", "Oficina Virtual de agentes IA"],
+  construyendo: ["Serum Go", "AvisaPago", "bootcamp.lat"],
   stackFavorito: ["Next.js", "Tailwind", "Expo", "Firebase", "Coolify"],
   superpoder: "Crear productos completos con Claude Code 🤖",
 };
@@ -64,9 +64,7 @@ Cada ruta: **4 clases + 1 clase de proyecto real** 🔥
 | 🩺 | [**Serum Go**](https://exaserums.com) | Preparación para el examen SERUMS con preguntas oficiales por convocatoria | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
 | 💌 | [**invitacion.pe**](https://invitacion.pe) | Invitaciones digitales para eventos | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
 | 🦫 | **AvisaPago** | Detecta pagos de Yape, Plin y bancos y los anuncia por voz en tu negocio | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
-| 🏢 | **Oficina Virtual** | Panel 3D que orquesta agentes de IA por proyecto | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
-| 🎥 | **Avatar en vivo** | Avatar en tiempo real que vende en lives de TikTok | ![](https://img.shields.io/badge/-En%20desarrollo-f59e0b?style=flat-square) |
-| ☁️ | **Hosting y dominios** | Hosting, dominios y correo para negocios | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
+| ☁️ | [**brayan.pe**](https://brayan.pe) | Hosting, dominios y correo para negocios | ![](https://img.shields.io/badge/-En%20vivo-22c55e?style=flat-square) |
 
 <p align="center">
   <a href="https://proyectime.com"><img src="https://img.shields.io/badge/proyectime.com-1e293b?style=flat-square" /></a>
